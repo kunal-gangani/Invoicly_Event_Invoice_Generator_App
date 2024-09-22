@@ -1,16 +1,23 @@
-# invoice_generator
+# Invoicly Event Management App
 
-A new Flutter project.
+A Flutter application designed for managing events. This app allows users to input event details and generate an invoice based on the provided information. It includes an inbuilt list of predefined events, each represented by a map containing the event's details.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **User Input Forms**:
+  - Event Date
+  - Event Name
+  - Booker Name
+  - Expected Visitors
+- **Invoice Generation**: Generates a detailed invoice based on user input.
+- **Event List**: Displays a list of predefined events with their details, including name, description, and price.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Event Management App Screenshot](link-to-screenshot)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/event_management_app.git
